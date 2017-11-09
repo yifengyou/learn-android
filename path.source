@@ -1,0 +1,2 @@
+PATH=$PATH:./out/host/linux-x86/bin 
+ANDROID_PRODUCT_OUT=./out/target/product/generic 
