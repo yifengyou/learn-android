@@ -1,1 +1,0 @@
-0000000000000000000000000000000000000000 0b526aba213c2569bbbc293410e0258555eab9ed root <root@aos.(none)> 1510192618 +0800	fetch --progress origin --tags +refs/heads/*:refs/remotes/origin/* +refs/heads/master:refs/remotes/origin/master: storing head
