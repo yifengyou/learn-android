@@ -6,7 +6,6 @@
 
 1. android学习
 
-
 ```
 Something I hope you know before go into the coding~
 First, please watch or star this repo, I'll be more happy if you follow me.
