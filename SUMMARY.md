@@ -33,4 +33,5 @@
         * [工具链](docs/机型适配/小米9/工具链.md)
         * [编译](docs/机型适配/小米9/编译.md)
         * [刷机](docs/机型适配/小米9/刷机.md)
+        * [miui11安装magisk](docs/机型适配/小米9/miui11安装magisk.md)
 
